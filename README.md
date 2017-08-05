@@ -3,7 +3,7 @@
 - 複数ファイルを読み込み、GIFアニメーションとして保存できるよう自動設定するスクリプト
 
 
-## 利用方法
+## 使用方法
 1. このページの **Clone or download** ボタン ＞ **Downroad ZIP** でダウンロード
 1. 解凍してできた **FolderToAnimationGIF.jsx** を **Adobe Photoshop ＞ Presets ＞ Scripts** フォルダに入れる
 1. Photoshopを再起動
