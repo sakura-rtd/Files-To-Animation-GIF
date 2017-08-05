@@ -4,7 +4,7 @@
 
 
 ## 利用方法
-1. このページの **Clone or download** ボタン ＞ **Downroad ZIP** でダウンロードなどする
+1. このページの **Clone or download** ボタン ＞ **Downroad ZIP** でダウンロード
 1. 解凍してできた **FolderToAnimationGIF.jsx** を **Adobe Photoshop ＞ Presets ＞ Scripts** フォルダに入れる
 1. Photoshopを再起動
 1. メニューの **ファイル ＞ 自動処理 ＞ 「複数ファイルからGIFアニメ作成」** を実行
