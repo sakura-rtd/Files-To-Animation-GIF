@@ -1,5 +1,5 @@
 # Folder-To-Animation-GIF
-Photoshopy用JSX。複数ファイルを読み込み、GIFアニメーションとして保存できるよう自動設定するスクリプト。
+Photoshop用JSX。複数ファイルを読み込み、GIFアニメーションとして保存できるよう自動設定するスクリプト。
 
 ## インストールと実行
 1. Clone or downloadボタンをクリックし、Downroad ZIP等でダウンロード。
