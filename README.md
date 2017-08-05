@@ -3,6 +3,6 @@ Photoshop用JSX。複数ファイルを読み込み、GIFアニメーション�
 
 ## インストールと実行
 1. Clone or downloadボタンをクリックし、Downroad ZIP等でダウンロード。
-1. 解凍してできた **FolderToAnimationGIF.jsx** を **Adobe Photoshop ＞Presets ＞ Scripts フォルダ** に入れる。
+1. 解凍してできた **FolderToAnimationGIF.jsx** を **Adobe Photoshop ＞ Presets ＞ Scripts フォルダ** に入れる。
 1. Photoshopを再起動。
-1. メニューの **ファイル＞自動処理＞複数ファイルからGIFアニメ作成** を実行。
+1. メニューの **ファイル ＞ 自動処理 ＞ 複数ファイルからGIFアニメ作成** を実行。
