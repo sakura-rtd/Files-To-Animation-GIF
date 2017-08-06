@@ -4,7 +4,7 @@
 
 
 ## インストール
-1. このページの **Clone or download** ボタン ＞ **Downroad ZIP** でダウンロード
+1. **Clone or download** ボタン ＞ **Downroad ZIP** でダウンロード
 1. 解凍してできた **FilesToAnimationGIF.jsx** を **Adobe Photoshop ＞ Presets ＞ Scripts** フォルダに入れる
 1. Photoshopを再起動
 
