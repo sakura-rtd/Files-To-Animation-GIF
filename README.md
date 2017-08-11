@@ -3,7 +3,7 @@
 - 連番ファイル名のついた複数画像ファイルを読み込み、GIFアニメーションとして保存できるよう自動設定するスクリプト
 
 ## インストール
-1. **Clone or download** ボタン ＞ **Downroad ZIP** でダウンロード
+1. **Clone or download** ボタン ＞ **Download ZIP** でダウンロード
 1. 解凍してできた **FilesToAnimationGIF.jsx** を **Adobe Photoshop ＞ Presets ＞ Scripts** フォルダに入れる
 1. Photoshopを再起動
 
